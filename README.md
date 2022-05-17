@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shadow Of Leaf
-- 👀 I’m interested in Android Developements
-- 🌱 I’m currently learning Anything
+- 👋 Hi, Its Me Shadow Of Leaf
+- 👀 I’m interested in Android Developements and anything that related to Technology
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on any moroccan project for free to encourage people to use github and share everything
