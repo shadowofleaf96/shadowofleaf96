@@ -20,14 +20,14 @@ I'm Mohammed Kotbi, a passionate FullStack Developer who loves diving deep into 
 
 Here are some of my cyberpunk-inspired projects:
 
-3. **[Blog Website](new-portfolio-z3hb.onrender.com/):
-   !([Project ShowCase](https://github.com/shadowofleaf96/React-Vite-PortFolio/raw/master/mockup.png?raw=true))
+3. [PortFolio React](new-portfolio-z3hb.onrender.com/):
+   ([Project ShowCase](https://github.com/shadowofleaf96/React-Vite-PortFolio/raw/master/mockup.png?raw=true))
 
-3. **[GreenVille Ecommerce Website](https://greenville-frontend.onrender.com/):
-   !([Project Logo](https://github.com/shadowofleaf96/Ecommerce-Final-Project/raw/main/client/src/assets/logo.png?raw=true))
+3. [GreenVille Ecommerce Website](https://greenville-frontend.onrender.com/):
+   ([Project Logo](https://github.com/shadowofleaf96/Ecommerce-Final-Project/raw/main/client/src/assets/logo.png?raw=true))
 
-3. **[Blog Website](https://blog-website-7mkl.onrender.com/):
-   !([Project Logo](https://github.com/shadowofleaf96/BlogWebsite/raw/master/public/images/Screenshot%202023-12-19%20213148.png?raw=true))
+3. [Blog Website](https://blog-website-7mkl.onrender.com/):
+   ([Project Logo](https://github.com/shadowofleaf96/BlogWebsite/raw/master/public/images/Screenshot%202023-12-19%20213148.png?raw=true))
 
 ## Connect with Me
 
