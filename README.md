@@ -20,7 +20,7 @@ I'm Mohammed Kotbi, a passionate FullStack Developer who loves diving deep into 
 
 Here are some of my projects:
 
-3. [PortFolio React](/React-Vite-PortFolio):
+3. [PortFolio React](React-Vite-PortFolio):
    ([Project ShowCase](https://github.com/shadowofleaf96/React-Vite-PortFolio/raw/master/mockup.png?raw=true))
 
 3. [GreenVille Ecommerce Website](https://greenville-frontend.onrender.com/):
