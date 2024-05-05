@@ -1,8 +1,6 @@
-# Hello, World! 👋
-
-Welcome to my corner of the internet! 🌃
-
 ![Profile Picture](https://media.licdn.com/dms/image/D4E16AQF-ZTqpOqlsTQ/profile-displaybackgroundimage-shrink_350_1400/0/1694969691477?e=1720656000&v=beta&t=w814KONGU1qE52zZwU2_X_FVQhgipgYYYb3VLxziZXo)
+
+# Hello, World! 👋
 
 ## About Me
 
