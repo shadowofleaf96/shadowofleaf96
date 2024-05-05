@@ -21,13 +21,13 @@ I'm Mohammed Kotbi, a passionate FullStack Developer who loves diving deep into 
 Here are some of my projects:
 
 3. [PortFolio React](https://github.com/shadowofleaf96/React-Vite-PortFolio):
-   ([Live Demo](https://new-portfolio-z3hb.onrender.com/))
+   [Live Demo](https://new-portfolio-z3hb.onrender.com/)
 
 3. [GreenVille Ecommerce Website](https://github.com/shadowofleaf96/GreenVille-Ecommerce_Final_Project):
-   ([Live Demo](https://greenville-frontend.onrender.com/))
+   [Live Demo](https://greenville-frontend.onrender.com/)
 
 3. [Blog Website](https://github.com/shadowofleaf96/BlogWebsite):
-   ([Live Demo](https://github.com/shadowofleaf96/BlogWebsite))
+   [Live Demo](https://github.com/shadowofleaf96/BlogWebsite)
 
 ## Connect with Me
 
