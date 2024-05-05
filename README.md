@@ -1,4 +1,4 @@
-![Profile Picture](https://media.licdn.com/dms/image/D4E16AQF-ZTqpOqlsTQ/profile-displaybackgroundimage-shrink_350_1400/0/1694969691477?e=1720656000&v=beta&t=w814KONGU1qE52zZwU2_X_FVQhgipgYYYb3VLxziZXo)
+![Profile Picture](https://github.com/shadowofleaf96/shadowofleaf96/blob/052f8fb50e2519420e22a7cbad4cd81b8d6e7ed6/Profile-cover.gif)
 
 # Hello, World! 👋
 
