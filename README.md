@@ -6,8 +6,8 @@
 
 I'm Mohammed Kotbi, a passionate FullStack Developer who loves diving deep into the realms of technology. 
 
-- 🌌 Exploring the futuristic landscapes of cyberspace.
-- 🤖 Embracing the fusion of humanity and technology.
+- 💼 Exploring cutting-edge developments in technology.
+- 🌐 Committed to leveraging the synergy between humanity and technology for positive impact.
 - 🎮 Gaming enthusiast
 
 ## Skills
