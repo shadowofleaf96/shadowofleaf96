@@ -27,7 +27,7 @@ Here are some of my projects:
    [Live Demo](https://greenville-frontend.onrender.com/)
 
 3. [Blog Website](https://github.com/shadowofleaf96/BlogWebsite):
-   [Live Demo](https://github.com/shadowofleaf96/BlogWebsite)
+   [Live Demo](blog-website-7mkl.onrender.com)
 
 ## Connect with Me
 
