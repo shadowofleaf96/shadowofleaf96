@@ -41,6 +41,6 @@ Let's connect and explore the neon-lit alleyways of cyberspace together:
 
 ## Support My Work
 
-If you find my projects interesting and want to support my cyberpunk adventures, consider buying me a virtual drink:
+If you find my projects interesting and want to support my adventures, consider buying me a virtual drink:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange)](https://ko-fi.com/shadowofleaf96)
