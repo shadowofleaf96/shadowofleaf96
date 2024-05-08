@@ -13,8 +13,8 @@ I'm Mohammed Kotbi, a passionate FullStack Developer who loves diving deep into 
 ## Skills
 
 - 💻 Programming Languages: JavaScript, Java, C#
-- 🛠️ Technologies: HTML/CSS, React, Node.js, Next.js
-- 🔧 Tools: Git, VS Code
+- 🛠️ Technologies: HTML/CSS, React, Node.js, Next.js, Android
+- 🔧 Tools: Git, VS Code, Android Studio, VS Studio
 
 ## Projects
 
