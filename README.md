@@ -23,7 +23,7 @@ Here are some of my projects:
 
 
 4. [PortFolio NextJS](https://github.com/shadowofleaf96/PortFolio-NextJS):
-   [Live Demo]([https://port-folio-next-js-gamma.vercel.app/])
+   [Live Demo](https://port-folio-next-js-gamma.vercel.app/)
 
 3. [PortFolio React](https://github.com/shadowofleaf96/React-Vite-PortFolio):
    [Live Demo](https://new-portfolio-z3hb.onrender.com/)
