@@ -21,15 +21,17 @@ I'm Mohammed Kotbi, a passionate FullStack Developer who loves diving deep into 
 
 Here are some of my projects:
 
-
-4. [PortFolio NextJS](https://github.com/shadowofleaf96/PortFolio-NextJS):
-   [Live Demo](https://port-folio-next-js-gamma.vercel.app/)
-
-3. [PortFolio React](https://github.com/shadowofleaf96/React-Vite-PortFolio):
-   [Live Demo](https://new-portfolio-z3hb.onrender.com/)
-
-2. [GreenVille Ecommerce Website](https://github.com/shadowofleaf96/GreenVille-Ecommerce_Final_Project):
+5. [GreenVille Ecommerce](https://github.com/shadowofleaf96/GreenVille-Ecommerce_Final_Project):
    [Live Demo](https://greenville-frontend.onrender.com/)
+
+4. [Tactiques-NextJS](https://github.com/shadowofleaf96/Tactiques-NextJS):
+   [Live Demo](https://tactiques-next-js.vercel.app/)
+
+3. [Shopify-Admin-Panel React](https://github.com/shadowofleaf96/Shopify-Admin-Panel):
+   [Live Demo](https://shopify-admin-panel.onrender.com/)
+
+2. [PortFolio NextJS](https://github.com/shadowofleaf96/PortFolio-NextJS):
+   [Live Demo](https://port-folio-next-js-gamma.vercel.app/)
 
 1. [Blog Website](https://github.com/shadowofleaf96/BlogWebsite):
    [Live Demo](https://blog-website-7mkl.onrender.com)
@@ -40,7 +42,7 @@ Let's connect and explore the neon-lit alleyways of cyberspace together:
 
 - ▶️ [YouTube in Arabic](https://www.youtube.com/channel/UC9_eEbHsL_1TL1O67Fwe7Yw)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mkotbi)
-- 🌐 [Personal Website](https://portfolio-nextjs-dszv.onrender.com/)
+- 🌐 [Portfolio](https://port-folio-next-js-gamma.vercel.app/)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowofleaf96&show_icons=true&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117&show_owner=true)](https://github.com/shadowofleaf96)
 
