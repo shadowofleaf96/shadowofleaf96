@@ -1,53 +1,88 @@
-![Profile Picture](https://raw.githubusercontent.com/shadowofleaf96/shadowofleaf96/refs/heads/main/linkedin-cover.jpg)
+![Profile Banner](https://raw.githubusercontent.com/shadowofleaf96/shadowofleaf96/refs/heads/main/linkedin-cover.jpg)
 
-# Hello, World! 👋 [My PortFolio](https://port-folio-next-js-gamma.vercel.app/)
-  
+# 👋 Hey, I’m Mohammed Kotbi  
+💻 FullStack Developer | 🎮 Gamer | 🚀 Tech Explorer  
 
-## About Me
+[🌐 Portfolio](https://port-folio-next-js-gamma.vercel.app/) · [🎮 PS3 Portfolio](https://xmb-portfolio.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/mkotbi)
 
-I'm Mohammed Kotbi, a passionate FullStack Developer who loves diving deep into the realms of technology. 
+---
 
-- 💼 Exploring cutting-edge developments in technology.
-- 🌐 Committed to leveraging the synergy between humanity and technology for positive impact.
-- 🎮 Gaming enthusiast
+## 🚀 About Me  
 
-## Skills
+I’m a passionate **FullStack Developer** who loves blending creativity with technology.  
+From building responsive web apps to exploring innovative tech solutions, I enjoy shaping ideas into digital experiences.  
 
-- 💻 Programming Languages: JavaScript, Java, C#
-- 🛠️ Technologies: HTML/CSS, React, Node.js, Next.js, Android
-- 🔧 Tools: Git, VS Code, Android Studio, VS Studio
+✨ Highlights:  
+- 🔭 Always experimenting with **cutting-edge technologies**.  
+- 🌍 Believe in using tech for **positive impact**.  
+- 🎮 Gaming geek & PC builder.  
 
-## Projects
+---
 
-Here are some of my projects:
+## 🛠️ Tech Stack  
 
-5. [GreenVille Ecommerce](https://github.com/shadowofleaf96/GreenVille-Ecommerce_Final_Project):
-   [Live Demo](https://greenville-frontend.onrender.com/)
+**Languages:**  
+`JavaScript` · `Java` · `C#`  
 
-4. [Tactiques-NextJS](https://github.com/shadowofleaf96/Tactiques-NextJS):
-   [Live Demo](https://tactiques-next-js.vercel.app/)
+**Frontend:**  
+`HTML5` · `CSS3` · `React` · `Next.js`  
 
-3. [Shopify-Admin-Panel React](https://github.com/shadowofleaf96/Shopify-Admin-Panel):
-   [Live Demo](https://shopify-admin-panel.onrender.com/)
+**Backend:**  
+`Node.js` · `Express`  
 
-2. [PortFolio NextJS](https://github.com/shadowofleaf96/PortFolio-NextJS):
-   [Live Demo](https://port-folio-next-js-gamma.vercel.app/)
+**Tools & Platforms:**  
+`Git` · `VS Code` · `Android Studio` · `Visual Studio`  
 
-1. [Blog Website](https://github.com/shadowofleaf96/BlogWebsite):
-   [Live Demo](https://blog-website-7mkl.onrender.com)
+---
 
-## Connect with Me
+## 📂 Featured Projects  
 
-Let's connect and explore the neon-lit alleyways of cyberspace together:
+### 🛒 [GreenVille Ecommerce](https://github.com/shadowofleaf96/GreenVille-Ecommerce_Final_Project)  
+🔗 [Live Demo](https://greenville-frontend.onrender.com/)  
+Full e-commerce platform built with **React, Express.js, Node.js, MongoDB**, including a **custom admin panel**.  
 
-- ▶️ [YouTube in Arabic](https://www.youtube.com/channel/UC9_eEbHsL_1TL1O67Fwe7Yw)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mkotbi)
-- 🌐 [Portfolio](https://port-folio-next-js-gamma.vercel.app/)
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowofleaf96&show_icons=true&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117&show_owner=true)](https://github.com/shadowofleaf96)
+### 🎓 [Tactiques-NextJS](https://github.com/shadowofleaf96/Tactiques-NextJS)  
+🔗 [Live Demo](https://tactiques-next-js.vercel.app/)  
+Professional training institute website built with **Next.js** and **Tailwind CSS**.  
 
-## Support My Work
+---
 
-If you find my projects interesting and want to support my adventures, consider buying me a virtual drink:
+### 🛠️ [Shopify Admin Panel](https://github.com/shadowofleaf96/Shopify-Admin-Panel)  
+🔗 [Live Demo](https://shopify-admin-panel.onrender.com/)  
+Custom admin panel for Shopify with **React**, supporting products, orders, and inventory management.  
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange)](https://paypal.me/shadowofleaf?country.x=MA&locale.x=en_US)
+---
+
+### 🌐 [Next.js Portfolio](https://github.com/shadowofleaf96/PortFolio-NextJS)  
+🔗 [Live Demo](https://port-folio-next-js-gamma.vercel.app/)  
+Personal portfolio site built with **Next.js**.  
+
+---
+
+### ✍️ [Blog Website](https://github.com/shadowofleaf96/BlogWebsite)  
+🔗 [Live Demo](https://blog-website-7mkl.onrender.com)  
+Minimal blog platform powered by **Node.js** & **MongoDB**.  
+
+---
+
+## 🤝 Connect with Me  
+
+- ▶️ [YouTube (Arabic)](https://www.youtube.com/channel/UC9_eEbHsL_1TL1O67Fwe7Yw)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mkotbi)  
+- 🌐 [Portfolio](https://port-folio-next-js-gamma.vercel.app/)  
+
+---
+
+## 📊 GitHub Stats  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowofleaf96&show_icons=true&hide_border=true&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&icon_color=58a6ff)](https://github.com/shadowofleaf96)  
+
+---
+
+## ☕ Support My Work  
+
+If you enjoy my projects and want to support me:  
+
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)](https://paypal.me/shadowofleaf?country.x=MA&locale.x=en_US)
