@@ -22,7 +22,7 @@ From building responsive web apps to exploring innovative tech solutions, I enjo
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-`JavaScript` · `Java` · `C#`  
+`JavaScript` · `TypeScript` . `Java` · `C#`  
 
 **Frontend:**  
 `HTML5` · `CSS3` · `React` · `Next.js`  
@@ -37,8 +37,19 @@ From building responsive web apps to exploring innovative tech solutions, I enjo
 
 ## 📂 Featured Projects  
 
+### 🎮 [XMB Portfolio](https://github.com/shadowofleaf96/XMB-Portfolio)  
+🔗 [Live Demo](https://xmb-portfolio.vercel.app/)  
+A **PlayStation 3-inspired portfolio** design that recreates the **XMB (Cross Media Bar)** UI experience.  
+
+---
+
+### ⚡ [JSNXT BoilerPlate](https://github.com/shadowofleaf96/jsnxt-boilerplate)  
+A **Next.js + Express.js + TypeScript boilerplate** for rapid full-stack app development, featuring **ESLint, Prettier, Redux, TailwindCSS**, and **API routes** out of the box.  
+
+---
+
 ### 🛒 [GreenVille Ecommerce](https://github.com/shadowofleaf96/GreenVille-Ecommerce_Final_Project)  
-🔗 [Live Demo](https://greenville-frontend.onrender.com/)  
+🔗 [Live Demo](https://greenville-frontend.vercel.app/)  
 Full e-commerce platform built with **React, Express.js, Node.js, MongoDB**, including a **custom admin panel**.  
 
 ---
