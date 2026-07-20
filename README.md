@@ -88,7 +88,7 @@ Minimal blog platform powered by **Node.js** & **MongoDB**.
 
 ## 📊 GitHub Stats  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowofleaf96&show_icons=true&hide_border=true&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&icon_color=58a6ff)](https://github.com/shadowofleaf96)  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shadowofleaf96&show_icons=true&hide_border=true&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&icon_color=58a6ff)](https://github.com/shadowofleaf96)  
 
 ---
 
