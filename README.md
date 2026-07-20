@@ -94,6 +94,13 @@
 | **[JSNXT BoilerPlate](https://github.com/shadowofleaf96/jsnxt-boilerplate)** | An opinionated Next.js + Express.js + TS boilerplate for rapid app development with Redux, Tailwind, and ESLint. | [🔗 Repo](https://github.com/shadowofleaf96/jsnxt-boilerplate) |
 | **[Shopify Admin Panel](https://github.com/shadowofleaf96/Shopify-Admin-Panel)** | Custom admin dashboard for Shopify built with React, supporting robust products, orders, and inventory management. | [🔗 Live Demo](https://shopify-admin-panel.onrender.com/) |
 
+### 🛠️ Utilities & Extensions
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **[GitDocufy](https://github.com/shadowofleaf96/GitDocufy)** | An automated tool for generating and managing documentation for Git repositories. | [🔗 Repo](https://github.com/shadowofleaf96/GitDocufy) |
+| **[Ark-X LMS Enhancer](https://github.com/shadowofleaf96/Ark-X-LMS-Enhancer)** | A Chrome extension designed to enhance the Ark-X Learning Platform with advanced features and UI improvements. | [🔗 Repo](https://github.com/shadowofleaf96/Ark-X-LMS-Enhancer) |
+| **[Other Chrome Extension]** | Another custom Chrome extension built to improve productivity and workflow. *(Replace with actual name)* | [🔗 Repo](https://github.com/shadowofleaf96/) |
+
 ---
 
 ## 📈 GitHub Activity
