@@ -1,99 +1,117 @@
-![Profile Banner](https://raw.githubusercontent.com/shadowofleaf96/shadowofleaf96/refs/heads/main/linkedin-cover.jpg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shadowofleaf96/shadowofleaf96/refs/heads/main/linkedin-cover.jpg" width="100%" style="border-radius: 10px;" />
+</div>
 
-# 👋 Hey, I’m Mohammed Kotbi  
-💻 FullStack Developer | 🎮 Gamer | 🚀 Tech Explorer  
+<h1 align="center">Hi there, I'm Mohammed Kotbi (Shadow Of Leaf) 👋</h1>
+<h3 align="center">Full-Stack Developer | Systems Engineer | Tech Explorer</h3>
 
-[🌐 Portfolio](https://port-folio-next-js-gamma.vercel.app/) · [🎮 PS3 Portfolio](https://xmb-portfolio.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/mkotbi)
-
----
-
-## 🚀 About Me  
-
-I’m a passionate **FullStack Developer** who loves blending creativity with technology.  
-From building responsive web apps to exploring innovative tech solutions, I enjoy shaping ideas into digital experiences.  
-
-✨ Highlights:  
-- 🔭 Always experimenting with **cutting-edge technologies**.  
-- 🌍 Believe in using tech for **positive impact**.  
-- 🎮 Gaming geek & PC builder.  
+<p align="center">
+  <a href="https://port-folio-next-js-gamma.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Next.js&logoColor=white" /></a>
+  <a href="https://xmb-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-PS3_Portfolio-003791?style=for-the-badge&logo=playstation&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mkotbi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UC9_eEbHsL_1TL1O67Fwe7Yw"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 About Me
 
-**Languages:**  
-`JavaScript` · `TypeScript` . `Java` · `C#`  
-
-**Frontend:**  
-`HTML5` · `CSS3` · `React` · `Next.js`  
-
-**Backend:**  
-`Node.js` · `Express`  
-
-**Tools & Platforms:**  
-`Git` · `VS Code` · `Android Studio` · `Visual Studio`  
-
----
-
-## 📂 Featured Projects  
-
-### 🎮 [XMB Portfolio](https://github.com/shadowofleaf96/XMB-Portfolio)  
-🔗 [Live Demo](https://xmb-portfolio.vercel.app/)  
-A **PlayStation 3-inspired portfolio** design that recreates the **XMB (Cross Media Bar)** UI experience.  
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none; vertical-align: top;">
+      I'm a passionate developer based in <b>Casablanca, Morocco</b>, who loves bridging the gap between high-level web applications and low-level system internals. <br><br>
+      Whether I'm building responsive e-commerce platforms with React/Next.js, or diving deep into the V8 JavaScript engine to add multithreading support, I'm always looking to push the boundaries of what's possible.<br><br>
+      <b>✨ Highlights:</b><br>
+      - 🛠️ Currently hacking on <b>Custom Node.js</b> & <b>V8 Multithreading</b>.<br>
+      - 📱 Maintaining custom Android kernels (Lumia 950 XL, UMIDIGI F1 Play).<br>
+      - 🎨 Building creative UI experiences like the PS3 XMB Portfolio.<br>
+      - 🎮 Gaming geek & PC builder.
+    </td>
+    <td width="40%" style="border: none; vertical-align: top; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=shadowofleaf96&show_icons=true&hide_border=true&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&icon_color=58a6ff" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚡ [JSNXT BoilerPlate](https://github.com/shadowofleaf96/jsnxt-boilerplate)  
-A **Next.js + Express.js + TypeScript boilerplate** for rapid full-stack app development, featuring **ESLint, Prettier, Redux, TailwindCSS**, and **API routes** out of the box.  
+## 🛠️ Tech Stack & Skills
+
+<details>
+  <summary><b>💻 Languages & Systems</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🌐 Full-Stack Web Development</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>⚙️ Tools & Environments</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  </p>
+</details>
 
 ---
 
-### 🛒 [GreenVille Ecommerce](https://github.com/shadowofleaf96/GreenVille-Ecommerce_Final_Project)  
-🔗 [Live Demo](https://greenville-frontend.vercel.app/)  
-Full e-commerce platform built with **React, Express.js, Node.js, MongoDB**, including a **custom admin panel**.  
+## 🏆 Featured Projects
+
+### 🔬 Core Systems & Low-Level
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Custom Node.js](https://github.com/shadowofleaf96/custom-node)** | A custom Node.js JavaScript runtime featuring a heavily modified V8 engine to support true multithreading natively. | `<C++>` `<JavaScript>` |
+| **[V8 Multithread Engine](https://github.com/shadowofleaf96/v8-multithread)** | The underlying multithreading architecture built directly into the V8 JavaScript engine for the custom Node.js project. | `<C++>` |
+| **[Lumia 950 XL Android Kernel](https://github.com/shadowofleaf96/android_kernel_msft_cityman)** | Custom Android kernel and device tree enabling Android/LineageOS to run on the Microsoft Lumia 950 XL. | `<C>` `<Make>` |
+
+### 🌐 Full-Stack & UI Engineering
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **[XMB Portfolio](https://github.com/shadowofleaf96/XMB-Portfolio)** | A unique, interactive PlayStation 3-inspired portfolio design that recreates the iconic XMB UI experience. | [🔗 Live Demo](https://xmb-portfolio.vercel.app/) |
+| **[GreenVille Ecommerce](https://github.com/shadowofleaf96/GreenVille-Ecommerce_Final_Project)** | Full-featured e-commerce platform with a custom admin panel, secure checkout, and robust state management. | [🔗 Live Demo](https://greenville-frontend.vercel.app/) |
+| **[JSNXT BoilerPlate](https://github.com/shadowofleaf96/jsnxt-boilerplate)** | An opinionated Next.js + Express.js + TS boilerplate for rapid app development with Redux, Tailwind, and ESLint. | [🔗 Repo](https://github.com/shadowofleaf96/jsnxt-boilerplate) |
+| **[Shopify Admin Panel](https://github.com/shadowofleaf96/Shopify-Admin-Panel)** | Custom admin dashboard for Shopify built with React, supporting robust products, orders, and inventory management. | [🔗 Live Demo](https://shopify-admin-panel.onrender.com/) |
 
 ---
 
-### 🎓 [Tactiques-NextJS](https://github.com/shadowofleaf96/Tactiques-NextJS)  
-🔗 [Live Demo](https://tactiques-next-js.vercel.app/)  
-Professional training institute website built with **Next.js** and **Tailwind CSS**.  
+## 📈 GitHub Activity
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowofleaf96&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff" />
+</div>
 
-### 🛠️ [Shopify Admin Panel](https://github.com/shadowofleaf96/Shopify-Admin-Panel)  
-🔗 [Live Demo](https://shopify-admin-panel.onrender.com/)  
-Custom admin panel for Shopify with **React**, supporting products, orders, and inventory management.  
+<br>
 
----
+<div align="center">
+  <i>"A developer who tries to discover new things."</i>
+</div>
 
-### 🌐 [Next.js Portfolio](https://github.com/shadowofleaf96/PortFolio-NextJS)  
-🔗 [Live Demo](https://port-folio-next-js-gamma.vercel.app/)  
-Personal portfolio site built with **Next.js**.  
+<br>
 
----
-
-### ✍️ [Blog Website](https://github.com/shadowofleaf96/BlogWebsite)  
-🔗 [Live Demo](https://blog-website-7mkl.onrender.com)  
-Minimal blog platform powered by **Node.js** & **MongoDB**.  
-
----
-
-## 🤝 Connect with Me  
-
-- ▶️ [YouTube (Arabic)](https://www.youtube.com/channel/UC9_eEbHsL_1TL1O67Fwe7Yw)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mkotbi)  
-- 🌐 [Portfolio](https://port-folio-next-js-gamma.vercel.app/)  
-
----
-
-## 📊 GitHub Stats  
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shadowofleaf96&show_icons=true&hide_border=true&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&icon_color=58a6ff)](https://github.com/shadowofleaf96)  
-
----
-
-## ☕ Support My Work  
-
-If you enjoy my projects and want to support me:  
-
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)](https://paypal.me/shadowofleaf?country.x=MA&locale.x=en_US)
+<div align="center">
+  <a href="https://paypal.me/shadowofleaf?country.x=MA&locale.x=en_US">
+    <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=for-the-badge" alt="Buy Me a Coffee"/>
+  </a>
+</div>
