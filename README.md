@@ -19,16 +19,18 @@
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="60%" style="border: none; vertical-align: top;">
-      I'm a passionate developer based in <b>Casablanca, Morocco</b>, who loves bridging the gap between high-level web applications and low-level system internals. <br><br>
-      Whether I'm building responsive e-commerce platforms with React/Next.js, or diving deep into the V8 JavaScript engine to add multithreading support, I'm always looking to push the boundaries of what's possible.<br><br>
-      <b>✨ Highlights:</b><br>
-      - 🛠️ Currently hacking on <b>Custom Node.js</b> & <b>V8 Multithreading</b>.<br>
-      - 📱 Maintaining custom Android kernels (Lumia 950 XL, UMIDIGI F1 Play).<br>
-      - 🎨 Building creative UI experiences like the PS3 XMB Portfolio.<br>
-      - 🎮 Gaming geek & PC builder.
+      I'm a passionate <b>Full-Stack Software Engineer</b> based in <b>Casablanca, Morocco</b>. I thrive at the intersection of sleek, high-performance web applications and hardcore, low-level system internals.<br><br>
+      On the <b>Web</b>, I architect and deliver complete end-to-end solutions. From crafting immersive, interactive frontends (like the <i>PS3 XMB Portfolio</i>) using React and Next.js, to designing robust, scalable backends with Node.js and Express (like the <i>GreenVille Ecommerce</i> platform and <i>GitDocufy</i> automation tool).<br><br>
+      Under the hood, my love for <b>Systems & OS</b> drives me to push boundaries. I build custom Android ROMs and Linux kernels (bringing modern Android to legacy devices like the Lumia 950 XL), and I hack directly on the <b>V8 JavaScript Engine</b> and <b>Node.js</b> core to implement native multithreading capabilities from scratch.<br><br>
+      <b>✨ What I do:</b><br>
+      - 🌐 <b>Full-Stack Web:</b> React, Next.js, Node.js, Express, MongoDB.<br>
+      - ⚙️ <b>Low-Level Systems:</b> C/C++, V8 Engine internals, Custom Node.js runtimes.<br>
+      - 📱 <b>Android & Linux:</b> Kernel development, Device Trees, LineageOS porting.<br>
+      - 🛠️ <b>Automation & Tools:</b> Chrome Extensions, CI/CD, Scripting.<br>
+      - 🎮 Gaming geek, PC builder, and relentless tinkerer.
     </td>
     <td width="40%" style="border: none; vertical-align: top; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=shadowofleaf96&show_icons=true&hide_border=true&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&icon_color=58a6ff" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=shadowofleaf96&show_icons=true&hide_border=true&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&icon_color=58a6ff" width="100%" />
     </td>
   </tr>
 </table>
@@ -93,13 +95,13 @@
 | **[GreenVille Ecommerce](https://github.com/shadowofleaf96/GreenVille-Ecommerce_Final_Project)** | Full-featured e-commerce platform with a custom admin panel, secure checkout, and robust state management. | [🔗 Live Demo](https://greenville-frontend.vercel.app/) |
 | **[JSNXT BoilerPlate](https://github.com/shadowofleaf96/jsnxt-boilerplate)** | An opinionated Next.js + Express.js + TS boilerplate for rapid app development with Redux, Tailwind, and ESLint. | [🔗 Repo](https://github.com/shadowofleaf96/jsnxt-boilerplate) |
 | **[Shopify Admin Panel](https://github.com/shadowofleaf96/Shopify-Admin-Panel)** | Custom admin dashboard for Shopify built with React, supporting robust products, orders, and inventory management. | [🔗 Live Demo](https://shopify-admin-panel.onrender.com/) |
+| **[GitDocufy](https://github.com/shadowofleaf96/GitDocufy)** | An automated full-stack tool for generating and managing documentation for Git repositories. | [🔗 Repo](https://github.com/shadowofleaf96/GitDocufy) |
 
 ### 🛠️ Utilities & Extensions
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **[GitDocufy](https://github.com/shadowofleaf96/GitDocufy)** | An automated tool for generating and managing documentation for Git repositories. | [🔗 Repo](https://github.com/shadowofleaf96/GitDocufy) |
 | **[Ark-X LMS Enhancer](https://github.com/shadowofleaf96/Ark-X-LMS-Enhancer)** | A Chrome extension designed to enhance the Ark-X Learning Platform with advanced features and UI improvements. | [🔗 Repo](https://github.com/shadowofleaf96/Ark-X-LMS-Enhancer) |
-| **[Other Chrome Extension]** | Another custom Chrome extension built to improve productivity and workflow. *(Replace with actual name)* | [🔗 Repo](https://github.com/shadowofleaf96/) |
+| **[GoFleet-Enhancer](https://github.com/shadowofleaf96/GoFleet-Enhancer)** | A Chrome extension designed to streamline workflows and enhance the UI/UX of the GoFleet platform. | [🔗 Repo](https://github.com/shadowofleaf96/GoFleet-Enhancer) |
 
 ---
 
